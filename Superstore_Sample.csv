@@ -1,0 +1,51 @@
+Order Date,Region,Category,Sub-Category,State,Segment,Sales,Profit,Quantity
+2023-01-01,East,Furniture,Chairs,California,Consumer,908.15,-76.92,6
+2023-01-02,West,Office Supplies,Storage,New York,Corporate,612.8,116.88,3
+2023-01-03,Central,Technology,Phones,Texas,Home Office,896.06,-68.39,5
+2023-01-04,South,Furniture,Binders,Florida,Consumer,667.34,45.61,2
+2023-01-05,East,Office Supplies,Accessories,Washington,Corporate,162.4,-10.01,1
+2023-01-06,West,Technology,Chairs,California,Home Office,851.7,200.93,5
+2023-01-07,Central,Furniture,Storage,New York,Consumer,808.29,-60.54,6
+2023-01-08,South,Office Supplies,Phones,Texas,Corporate,118.68,30.2,5
+2023-01-09,East,Technology,Binders,Florida,Home Office,592.97,284.96,6
+2023-01-10,West,Furniture,Accessories,Washington,Consumer,510.11,145.64,5
+2023-01-11,Central,Office Supplies,Chairs,California,Corporate,995.43,77.63,8
+2023-01-12,South,Technology,Storage,New York,Home Office,666.63,231.51,3
+2023-01-13,East,Furniture,Phones,Texas,Consumer,290.39,-66.98,2
+2023-01-14,West,Office Supplies,Binders,Florida,Corporate,338.54,69.57,4
+2023-01-15,Central,Technology,Accessories,Washington,Home Office,527.44,212.75,3
+2023-01-16,South,Furniture,Chairs,California,Consumer,62.31,27.65,7
+2023-01-17,East,Office Supplies,Storage,New York,Corporate,419.89,165.13,8
+2023-01-18,West,Technology,Phones,Texas,Home Office,492.24,116.58,1
+2023-01-19,Central,Furniture,Binders,Florida,Consumer,592.18,21.29,4
+2023-01-20,South,Office Supplies,Accessories,Washington,Corporate,613.6,-99.21,1
+2023-01-21,East,Technology,Chairs,California,Home Office,630.77,270.21,2
+2023-01-22,West,Furniture,Storage,New York,Consumer,378.1,-17.01,2
+2023-01-23,Central,Office Supplies,Phones,Texas,Corporate,904.68,44.72,3
+2023-01-24,South,Technology,Binders,Florida,Home Office,237.63,66.85,5
+2023-01-25,East,Furniture,Accessories,Washington,Consumer,229.94,-0.88,2
+2023-01-26,West,Office Supplies,Chairs,California,Corporate,537.97,188.82,4
+2023-01-27,Central,Technology,Storage,New York,Home Office,978.4,217.77,9
+2023-01-28,South,Furniture,Phones,Texas,Consumer,609.35,174.2,2
+2023-01-29,East,Office Supplies,Binders,Florida,Corporate,172.06,-75.02,3
+2023-01-30,West,Technology,Accessories,Washington,Home Office,254.01,59.09,9
+2023-01-31,Central,Furniture,Chairs,California,Consumer,80.47,7.35,6
+2023-02-01,South,Office Supplies,Storage,New York,Corporate,776.9,-77.11,6
+2023-02-02,East,Technology,Phones,Texas,Home Office,148.92,10.42,2
+2023-02-03,West,Furniture,Binders,Florida,Consumer,717.54,37.22,1
+2023-02-04,Central,Office Supplies,Accessories,Washington,Corporate,355.74,-44.73,8
+2023-02-05,South,Technology,Chairs,California,Home Office,240.87,267.19,3
+2023-02-06,East,Furniture,Storage,New York,Consumer,191.59,246.08,6
+2023-02-07,West,Office Supplies,Phones,Texas,Corporate,838.19,46.1,2
+2023-02-08,Central,Technology,Binders,Florida,Home Office,276.73,70.04,5
+2023-02-09,South,Furniture,Accessories,Washington,Consumer,536.87,82.77,1
+2023-02-10,East,Office Supplies,Chairs,California,Corporate,682.35,-19.31,2
+2023-02-11,West,Technology,Storage,New York,Home Office,761.95,-40.26,3
+2023-02-12,Central,Furniture,Phones,Texas,Consumer,651.48,140.81,3
+2023-02-13,South,Office Supplies,Binders,Florida,Corporate,144.67,266.85,3
+2023-02-14,East,Technology,Accessories,Washington,Home Office,532.77,-1.86,3
+2023-02-15,West,Furniture,Chairs,California,Consumer,357.06,197.47,5
+2023-02-16,Central,Office Supplies,Storage,New York,Corporate,465.07,77.06,6
+2023-02-17,South,Technology,Phones,Texas,Home Office,936.7,4.38,4
+2023-02-18,East,Furniture,Binders,Florida,Consumer,409.15,200.6,3
+2023-02-19,West,Office Supplies,Accessories,Washington,Corporate,300.0,166.62,3
